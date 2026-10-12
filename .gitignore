@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Отчёты о покрытии
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Логи и настройки
+*.log
+.env
