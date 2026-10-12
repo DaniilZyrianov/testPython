@@ -20,3 +20,6 @@ htmlcov/
 # Логи и настройки
 *.log
 .env
+htmlcov.rar
+*.rar
+*.zip
