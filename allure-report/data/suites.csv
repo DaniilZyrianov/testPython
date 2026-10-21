@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Сценарий: Успешная покупка.","234","test_successful_purchase","tests.purchase","2026-10-21","passed","2026-10-21","","test_purchase","",""
+"Сценарий: Очистка корзины.","10156","test_cart_cleanup","tests.cart","2026-10-21","passed","2026-10-21","","test_cart","",""
+"","401","Успешная покупка товара","tests.purchase","2026-10-21","passed","2026-10-21","TestPurchase","Покупка","",""
+"Сценарий: Неуспешная авторизация.","542","test_negative_login","tests.auth","2026-10-21","passed","2026-10-21","","test_auth","",""
